@@ -68,9 +68,6 @@ public class clothes {
         clothes redShirt = new clothes("shirt", 14.99, true, "red");
         redShirt.clothesInfo();
         
-        // If there is no "design" in particular, just type open/close quotation 
-        // marks with no space in between.
-        
         // Also, if you're referring to pants/jeans, write "pair of" before
         // the clothing name.
         
